@@ -1,0 +1,2 @@
+# WEB-SOCKET-GEOLOCALIZACION-MADRID-INGENIEROS-SAC
+Se realizao una geolocalizacion para poder brindar las ubicaciones exactas de los departamentos en venta para que puedan apreciar la zona donde esta ubicada y su posible visita para una cotizacion .Ademas,brindara la ubicacion exacta del usuario conectado al software para saber cuanto se demorara en llegar a los proyectos inmobiliarios entro otras funcionalidades.
